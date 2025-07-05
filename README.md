@@ -13,7 +13,7 @@
   </p>
 
   <p align="center">
-    <a href="#demo">Demo</a>
+    <a href="https://github.com/eLsavation/split-bill/blob/main/README.md#-demo">Demo</a>
     •
     <a href="#fitur">Fitur</a>
     •
