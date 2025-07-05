@@ -136,31 +136,31 @@ splitbill/
 └── README.md          # Documentation
 ```
 ## 📖 Penggunaan
-###1️⃣ Tambah Peserta
+### 1️⃣ Tambah Peserta
 
 Klik tombol "Tambah Peserta"
 Masukkan nama peserta
 Tambahkan item-item yang dipesan beserta harga dan quantity
 
-###2️⃣ Biaya Patungan (Optional)
+### 2️⃣ Biaya Patungan (Optional)
 
 Klik "Tambah Biaya Patungan" untuk biaya yang dishare
 Masukkan nama biaya (contoh: "Parkir", "Ruangan")
 Pilih peserta yang ikut patungan
 
-###3️⃣ Pajak & Service (Optional)
+### 3️⃣ Pajak & Service (Optional)
 
 Masukkan persentase pajak jika ada
 Masukkan total service charge jika ada
 
-###4️⃣ Lihat Hasil & Share
+### 4️⃣ Lihat Hasil & Share
 
 Hasil pembagian otomatis terhitung
 Klik "Generate Image" untuk membuat gambar
 Klik "Share via WhatsApp" untuk share hasil
 
 
-##🛠️ Teknologi
+## 🛠️ Teknologi
 <div align="center">
   <table>
     <tr>
@@ -190,7 +190,7 @@ Font Awesome - Icon library
 html2canvas - Screenshot generation
 
 
-##🤝 Kontribusi
+## 🤝 Kontribusi
 Kontribusi sangat diterima! Berikut cara untuk berkontribusi:
 
 Fork repository ini
@@ -199,7 +199,7 @@ Commit perubahan (git commit -m 'Add some AmazingFeature')
 Push ke branch (git push origin feature/AmazingFeature)
 Buat Pull Request
 
-##📝 Panduan Kontribusi
+## 📝 Panduan Kontribusi
 
 Pastikan code mengikuti style yang sudah ada
 Test di berbagai browser dan device
@@ -207,10 +207,10 @@ Update dokumentasi jika perlu
 Deskripsikan perubahan dengan jelas di PR
 
 
-##📄 Lisensi
+## 📄 Lisensi
 Distributed under the MIT License. See LICENSE for more information.
 
-##👨‍💻 Developer
+## 👨‍💻 Developer
 <div align="center">
   <img src="https://github.com/eLsavation.png" width="100" height="100" style="border-radius: 50%;" alt="Developer Avatar"/>
 Awwal Pituduh
@@ -227,7 +227,7 @@ Awwal Pituduh
   </p>
 </div>
 
-🙏 Acknowledgments
+## 🙏 Acknowledgments
 
 Thanks to all contributors who have helped this project
 Inspired by the need for simple bill splitting solution
