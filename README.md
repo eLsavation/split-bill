@@ -19,8 +19,6 @@
     •
     <a href="#-instalasi">Instalasi</a>
     •
-    <a href="#-penggunaan">Penggunaan</a>
-    •
     <a href="#-kontribusi">Kontribusi</a>
   </p>
 
