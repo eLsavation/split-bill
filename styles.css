@@ -1,0 +1,149 @@
+/* Animasi untuk transisi smooth */
+* {
+    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
+/* Hilangkan spinner untuk input number pada desktop */
+@media (min-width: 640px) {
+    /* Chrome, Safari, Edge, Opera */
+    input[type="number"]::-webkit-inner-spin-button,
+    input[type="number"]::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+    
+    /* Firefox */
+    input[type="number"] {
+        -moz-appearance: textfield;
+        appearance: textfield;
+    }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+/* Dark mode scrollbar */
+.dark ::-webkit-scrollbar-track {
+    background: #374151;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+    background: #6B7280;
+}
+
+/* Mobile result card styles */
+@media (max-width: 640px) {
+    .result-card {
+        @apply bg-gray-50 dark:bg-gray-700 rounded-lg p-4 space-y-2;
+    }
+    
+    .result-card-header {
+        @apply flex justify-between items-center border-b border-gray-200 dark:border-gray-600 pb-2 mb-2;
+    }
+    
+    .result-card-body {
+        @apply space-y-1 text-sm;
+    }
+    
+    .result-card-footer {
+        @apply pt-2 border-t border-gray-200 dark:border-gray-600;
+    }
+}
+
+/* Additional custom styles for better UI */
+.input-primary {
+    @apply px-4 py-2 rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-primary;
+}
+
+.input-secondary {
+    @apply px-4 py-2 rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-secondary;
+}
+
+.btn-primary {
+    @apply px-6 py-3 bg-primary text-white rounded-lg hover:bg-indigo-600 transition-colors;
+}
+
+.btn-secondary {
+    @apply px-6 py-3 bg-secondary text-white rounded-lg hover:bg-green-600 transition-colors;
+}
+
+.btn-danger {
+    @apply bg-red-50 dark:bg-red-900/20 text-red-600 dark:text-red-400 rounded-lg hover:bg-red-100 dark:hover:bg-red-900/30 transition-colors;
+}
+
+/* Loading state */
+.loading {
+    opacity: 0.5;
+    pointer-events: none;
+}
+
+/* Animation for new items */
+@keyframes slideIn {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.slide-in {
+    animation: slideIn 0.3s ease-out;
+}
+
+/* Hover effects */
+.hover-scale {
+    transition: transform 0.2s ease;
+}
+
+.hover-scale:hover {
+    transform: scale(1.02);
+}
+
+/* Focus visible for accessibility */
+button:focus-visible,
+input:focus-visible,
+a:focus-visible {
+    outline: 2px solid #4F46E5;
+    outline-offset: 2px;
+}
+
+/* Print styles */
+@media print {
+    body {
+        background: white !important;
+        color: black !important;
+    }
+    
+    header,
+    footer,
+    #generateImage,
+    #shareWhatsApp,
+    #addParticipant,
+    #addSharedCost,
+    .btn-danger {
+        display: none !important;
+    }
+    
+    .dark * {
+        background: white !important;
+        color: black !important;
+        border-color: #ddd !important;
+    }
+}
