@@ -22,7 +22,7 @@
     <a href="#-kontribusi">Kontribusi</a>
   </p>
 
-  <img src="https://user-images.githubusercontent.com/placeholder/splitbill-preview.png" alt="SplitBill Preview" width="600" />
+  <img src="https://raw.githubusercontent.com/eLsavation/split-bill/refs/heads/main/splitbill-dark.png" alt="SplitBill Preview" width="600" />
   
 </div>
 
