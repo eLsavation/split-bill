@@ -69,24 +69,24 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/placeholder/light-mode.png" width="300" alt="Light Mode"/>
+        <img src="https://raw.githubusercontent.com/eLsavation/split-bill/refs/heads/main/splitbill-light.png" width="300" alt="Light Mode"/>
         <br />
         <sub><b>Light Mode</b></sub>
       </td>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/placeholder/dark-mode.png" width="300" alt="Dark Mode"/>
+        <img src="https://raw.githubusercontent.com/eLsavation/split-bill/refs/heads/main/splitbill-dark.png" width="300" alt="Dark Mode"/>
         <br />
         <sub><b>Dark Mode</b></sub>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/placeholder/mobile-view.png" width="300" alt="Mobile View"/>
+        <img src="https://raw.githubusercontent.com/eLsavation/split-bill/refs/heads/main/mobile.png" width="300" alt="Mobile View"/>
         <br />
         <sub><b>Mobile View</b></sub>
       </td>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/placeholder/result-image.png" width="300" alt="Result Image"/>
+        <img src="https://raw.githubusercontent.com/eLsavation/split-bill/refs/heads/main/result.jpg" width="300" alt="Result Image"/>
         <br />
         <sub><b>Generated Image</b></sub>
       </td>
