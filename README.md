@@ -136,7 +136,7 @@ splitbill/
 ├── style.css          # Custom styles
 ├── translations.js     # Language translations
 └── README.md          # Documentation
-
+```
 📖 Penggunaan
 1️⃣ Tambah Peserta
 
@@ -244,4 +244,3 @@ Built with ❤️ for the community
     <sub>⭐ Star this repo if you find it helpful!</sub>
   </p>
 </div>
-```
