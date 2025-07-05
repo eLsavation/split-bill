@@ -13,15 +13,15 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/eLsavation/split-bill/blob/main/README.md#-demo">Demo</a>
+    <a href="#-demo">Demo</a>
     •
     <a href="#-fitur">Fitur</a>
     •
-    <a href="#instalasi">Instalasi</a>
+    <a href="#-instalasi">Instalasi</a>
     •
-    <a href="#penggunaan">Penggunaan</a>
+    <a href="#-penggunaan">Penggunaan</a>
     •
-    <a href="#kontribusi">Kontribusi</a>
+    <a href="#-kontribusi">Kontribusi</a>
   </p>
 
   <img src="https://user-images.githubusercontent.com/placeholder/splitbill-preview.png" alt="SplitBill Preview" width="600" />
