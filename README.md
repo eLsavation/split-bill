@@ -98,12 +98,12 @@
 
 ## 🚀 Demo
 
-🔗 **[Live Demo](https://yourusername.github.io/splitbill)**
+🔗 **[Live Demo](https://awwal.my.id/split-bill)**
 
 Atau scan QR code berikut:
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/qr-code.png" width="200" alt="QR Code"/>
+  <img src="https://raw.githubusercontent.com/eLsavation/split-bill/refs/heads/main/qr-code.png" width="200" alt="QR Code"/>
 </div>
 
 ---
